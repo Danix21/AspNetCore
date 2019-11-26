@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\aspNetCore\\HolaMundoMVC\\HolaMundoMVC.csproj": {}
+    "C:\\Users\\Daniel\\Documents\\proyectos\\platzi\\AspNetCore\\HolaMundoMVC\\HolaMundoMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\aspNetCore\\HolaMundoMVC\\HolaMundoMVC.csproj": {
+    "C:\\Users\\Daniel\\Documents\\proyectos\\platzi\\AspNetCore\\HolaMundoMVC\\HolaMundoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\aspNetCore\\HolaMundoMVC\\HolaMundoMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Documents\\proyectos\\platzi\\AspNetCore\\HolaMundoMVC\\HolaMundoMVC.csproj",
         "projectName": "HolaMundoMVC",
-        "projectPath": "C:\\Users\\User\\Documents\\aspNetCore\\HolaMundoMVC\\HolaMundoMVC.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\aspNetCore\\HolaMundoMVC\\obj\\",
+        "projectPath": "C:\\Users\\Daniel\\Documents\\proyectos\\platzi\\AspNetCore\\HolaMundoMVC\\HolaMundoMVC.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Documents\\proyectos\\platzi\\AspNetCore\\HolaMundoMVC\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
