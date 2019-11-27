@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel\\Documents\\proyectos\\platzi\\AspNetCore\\HolaMundoMVC\\HolaMundoMVC.csproj": {}
+    "C:\\Users\\Daniel\\Documents\\Cursos\\AspNetCore\\HolaMundoMVC\\HolaMundoMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel\\Documents\\proyectos\\platzi\\AspNetCore\\HolaMundoMVC\\HolaMundoMVC.csproj": {
+    "C:\\Users\\Daniel\\Documents\\Cursos\\AspNetCore\\HolaMundoMVC\\HolaMundoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel\\Documents\\proyectos\\platzi\\AspNetCore\\HolaMundoMVC\\HolaMundoMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Documents\\Cursos\\AspNetCore\\HolaMundoMVC\\HolaMundoMVC.csproj",
         "projectName": "HolaMundoMVC",
-        "projectPath": "C:\\Users\\Daniel\\Documents\\proyectos\\platzi\\AspNetCore\\HolaMundoMVC\\HolaMundoMVC.csproj",
+        "projectPath": "C:\\Users\\Daniel\\Documents\\Cursos\\AspNetCore\\HolaMundoMVC\\HolaMundoMVC.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel\\Documents\\proyectos\\platzi\\AspNetCore\\HolaMundoMVC\\obj\\",
+        "outputPath": "C:\\Users\\Daniel\\Documents\\Cursos\\AspNetCore\\HolaMundoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

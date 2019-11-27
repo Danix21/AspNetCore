@@ -8,10 +8,15 @@ namespace HolaMundoMVC.Controllers
     {
         public IActionResult Index()
         {
-            var escuela = new Escuela{
-                AñoFundacion = 2005,
-                EscuelaId = Guid.NewGuid().ToString(),
-                Nombre = "Platzi School"
+            var escuela = new Escuela
+            {
+                AñoDeCreación = 2005,
+                UniqueId = Guid.NewGuid().ToString(),
+                Nombre = "Platzi School",
+                Ciudad = "Bs As",
+                Pais = "Argentina",
+                Dirección = "Guido 2860",
+                TipoEscuela = TiposEscuela.Secundaria
             };
             return View(escuela);
         }
