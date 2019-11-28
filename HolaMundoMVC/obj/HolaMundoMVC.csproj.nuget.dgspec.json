@@ -40,6 +40,16 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkcore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.SqlServer": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
