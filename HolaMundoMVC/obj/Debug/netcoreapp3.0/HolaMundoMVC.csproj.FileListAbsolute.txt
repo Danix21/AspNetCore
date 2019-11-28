@@ -114,3 +114,4 @@ c:\Cursos\platzi\AspNetCore\HolaMundoMVC\obj\Debug\netcoreapp3.0\HolaMundoMVC.pd
 C:\Cursos\platzi\AspNetCore\HolaMundoMVC\obj\Debug\netcoreapp3.0\HolaMundoMVC.csproj.CopyComplete
 C:\Cursos\platzi\AspNetCore\HolaMundoMVC\obj\Debug\netcoreapp3.0\Razor\Views\Alumno\Index.cshtml.g.cs
 C:\Cursos\platzi\AspNetCore\HolaMundoMVC\obj\Debug\netcoreapp3.0\Razor\Views\Alumno\MultiAlumno.cshtml.g.cs
+c:\Cursos\platzi\AspNetCore\HolaMundoMVC\obj\Debug\netcoreapp3.0\Razor\Views\Shared\ListObjEscuela.cshtml.g.cs
